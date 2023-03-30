@@ -1,2 +1,3 @@
-# Grad-School
-#<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjlee93&layout=compact"><br><br>
+# Grad School <Hanyang Univ> <Department of Intelligence Computing> <Data Science>
+
+This repository contains materials that were worked on during the master's program at the graduate school. 
